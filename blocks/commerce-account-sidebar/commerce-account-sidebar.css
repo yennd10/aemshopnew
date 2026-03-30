@@ -16,7 +16,7 @@
 
 .commerce-account-sidebar-wrapper .commerce-account-sidebar .commerce-account-sidebar-item-active {
     border-color: var(--color-neutral-800);
-    background-color: var(--color-neutral-200);
+    background-color: #f00;
 }
 
 .commerce-account-sidebar-item-icon {
