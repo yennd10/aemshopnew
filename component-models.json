@@ -322,6 +322,16 @@
         "component": "boolean",
         "name": "undo-remove-item",
         "label": "Undo Remove Item"
+      },
+      {
+        "component": "text",
+        "name": "recommendation-skus",
+        "label": "Cart recommendation SKUs (comma-separated, optional)"
+      },
+      {
+        "component": "text",
+        "name": "recommendations-heading",
+        "label": "Cart recommendations heading"
       }
     ]
   },

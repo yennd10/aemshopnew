@@ -4,6 +4,7 @@
       "commerce-core-endpoint": "https://www.aemshop.net/graphql",
       "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
       "commerce-assets-enabled": false,
+      "cart-static-recommendation-skus": "ADB102,ADB111,ADB112",
       "headers": {
         "all": {
           "Store": "default"
